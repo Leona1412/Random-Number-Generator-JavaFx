@@ -8,13 +8,15 @@ This is how it looks like when you run it:
 
 Enter two integers in the textfields and click on the Generate button in order to get a random integer generated and displayed on the bottom.
 
-![enterTwoInts](https://user-images.githubusercontent.com/127019014/223148956-16227ebd-3d11-4a5a-bbb7-29fecdee13ab.PNG)
+![image](https://user-images.githubusercontent.com/127019014/223162271-0d5be311-075d-477f-9d4d-67a2d299ad15.png)
 
+After a random number is generated, the user is forced to click on clear button. 
 The clear button deletes the previously generated random integer and clears the textfields
 
 ![clearButton](https://user-images.githubusercontent.com/127019014/223149521-7e709606-2893-4cb0-8ea7-59dded33c289.PNG)
 
 # Handling input errors
+The user can recognize the error and recover from it on their own
 ## Handling empty textfields
 The user receives the feedback to enter a number which is displayed next to the empty textfield.
 
