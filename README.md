@@ -10,7 +10,7 @@ Enter two integers in the textfields and click on the Generate button in order t
 
 ![image](https://user-images.githubusercontent.com/127019014/223162271-0d5be311-075d-477f-9d4d-67a2d299ad15.png)
 
-After a random number is generated, the user is forced to click on clear button. 
+After a random number is generated, the user is forced to click on the clear button. 
 The clear button deletes the previously generated random integer and clears the textfields
 
 ![clearButton](https://user-images.githubusercontent.com/127019014/223149521-7e709606-2893-4cb0-8ea7-59dded33c289.PNG)
